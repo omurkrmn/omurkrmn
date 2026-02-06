@@ -33,6 +33,12 @@ I'm a recent graduate and a passionate aspiring Java Developer. Currently, I'm f
 
 ---
 
+### 🚀 Projects & My works:
+| Proje İsmi | Kullanılan Teknolojiler | Link |
+| :--- | :--- | :--- |
+| **Patient Management** | Java, Spring Boot, Kafka, Docker | [View](https://github.com/omurkrmn/patient-management) |
+| **Library Management** | Java, Spring Data JPA, RabbitMQ, Spring Security | [View](https://github.com/omurkrmn/library-management) |
+
 ### 📫 Contact me!
 <p align="left">
 <a href="https://linkedin.com/in/aomurkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omurkrmn" height="30" width="40" /></a>
