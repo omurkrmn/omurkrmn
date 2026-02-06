@@ -37,6 +37,7 @@ I'm a recent graduate and a passionate aspiring Java Developer. Currently, I'm f
 | Project Name | Technologies Used | Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Patient Management** | Java, Spring Boot, Kafka, Docker | [View](https://github.com/omurkrmn/patient-management) | Ongoing |
+| **Sample Ecommerce App** | Java, Spring Data JPA, JWT, Validation | [View](https://github.com/omurkrmn/e-commerce26) | Unfinished |
 | **Library Management** | Java, Spring Data JPA, RabbitMQ, Spring Security | [View](https://github.com/omurkrmn/library-management) | Final |
 
 ### 📫 Contact me!
