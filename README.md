@@ -8,16 +8,16 @@
 
 ---
 
-### 👨‍💻 Hakkımda
-Yeni mezun ve tutkulu bir **Java Developer** adayıyım. Şu an vaktimin çoğunu **Spring Boot** ekosistemini derinlemesine öğrenmeye ve **Apache Kafka** ile veri akışı (streaming) mimarilerini keşfetmeye ayırıyorum.
+### 👨‍💻 About me:
+I'm a recent graduate and a passionate aspiring Java Developer. Currently, I'm focusing on exploring the Spring Boot ecosystem and data streaming architectures with Apache Kafka.
 
-- 🔭 Şu an **Mikroservis Mimarileri** üzerinde çalışıyorum.
-- 🌱 Yeni öğrendiğim konu: **Apache Kafka & Event-Driven Design**.
-- ⚡ Hedefim: Yüksek ölçekli sistemler geliştirip çalıştığım projelerimi hayata geçirmek!
+🔭 I'm currently working on Microservice Architectures. 
+🌱 Newly learned topics: Apache Kafka and Event-Driven Design.
+⚡ My goal: To develop highly locked systems and bring my project to life!
 
 ---
 
-### 🛠️ Teknolojik Takım Çantam
+### 🛠️ Tech Toolkit:
 
 | Alan | Araçlar |
 | :--- | :--- |
@@ -28,12 +28,12 @@ Yeni mezun ve tutkulu bir **Java Developer** adayıyım. Şu an vaktimin çoğun
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Statistics:
 ![Ömür's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omurkrmn&theme=tokyonight)
 
 ---
 
-### 📫 Benimle Bağlantı Kur
+### 📫 Contact me!
 <p align="left">
 <a href="https://linkedin.com/in/aomurkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omurkrmn" height="30" width="40" /></a>
 </p>
