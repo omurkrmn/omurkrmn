@@ -14,11 +14,11 @@ Yeni mezun ve tutkulu bir **Java Developer** adayıyım. Şu an vaktimin çoğun
 
 - 🔭 Şu an **Mikroservis Mimarileri** üzerinde çalışıyorum.
 - 🌱 Yeni öğrendiğim konu: **Apache Kafka & Event-Driven Design**.
-- ⚡ Hedefim: Yüksek ölçekli sistemler geliştirip pasif gelir projelerimi hayata geçirmek!
+- ⚡ Hedefim: Yüksek ölçekli sistemler geliştirip çalıştığım projelerimi hayata geçirmek!
 
 ---
 
-### 🛠️ Teknolojik Takım Çantam (Işıklı Mışıklı Bölüm)
+### 🛠️ Teknolojik Takım Çantam
 
 | Alan | Araçlar |
 | :--- | :--- |
