@@ -19,10 +19,10 @@ I'm a recent graduate and a passionate aspiring Java Developer. Currently, I'm f
 
 ### 🛠️ Tech Toolkit:
 
-| Alan | Araçlar |
+| Area | Tools |
 | :--- | :--- |
 | **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
-| **Veri & Cache** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **Data & Cache** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
 | **Messaging** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
@@ -34,7 +34,7 @@ I'm a recent graduate and a passionate aspiring Java Developer. Currently, I'm f
 ---
 
 ### 🚀 Projects & My works:
-| Proje İsmi | Kullanılan Teknolojiler | Link |
+| Project Name | Technologies Used | Link |
 | :--- | :--- | :--- |
 | **Patient Management** | Java, Spring Boot, Kafka, Docker | [View](https://github.com/omurkrmn/patient-management) |
 | **Library Management** | Java, Spring Data JPA, RabbitMQ, Spring Security | [View](https://github.com/omurkrmn/library-management) |
