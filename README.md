@@ -1,10 +1,10 @@
 # Hi there, I'm Ömür! 👋 
 ### Junior Java Software Developer | Learning Apache Kafka - Redis - Docker - RabbitMQ |  🚀
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omurkrmn&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omurkrmn&layout=compact&theme=tokyonight" height="170" alt="languages card" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omurkrmn&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omurkrmn&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
