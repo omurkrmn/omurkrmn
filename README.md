@@ -11,8 +11,8 @@
 ### 👨‍💻 About me:
 I'm a recent graduate and a passionate aspiring Java Developer. Currently, I'm focusing on exploring the Spring Boot ecosystem and data streaming architectures with Apache Kafka.
 
-🔭 I'm currently working on Microservice Architectures. 
-🌱 Newly learned topics: Apache Kafka and Event-Driven Design.
+🔭 I'm currently working on Microservice Architectures.    
+🌱 Newly learned topics: Apache Kafka and Event-Driven Design.    
 ⚡ My goal: To develop highly locked systems and bring my project to life!
 
 ---
