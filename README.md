@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Ömür! 👋 
 ### Junior Java Software Developer | Learning Apache Kafka - Redis - Docker - RabbitMQ |  🚀
 
